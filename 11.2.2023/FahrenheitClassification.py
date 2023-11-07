@@ -1,0 +1,1 @@
+temp = int(input("Enter the first number (temp): "))
